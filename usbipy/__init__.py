@@ -1,3 +1,2 @@
 from usbipy.client import *
-from usbipy.host import *
-from usbipy.remote import *
+from usbipy.device import *
